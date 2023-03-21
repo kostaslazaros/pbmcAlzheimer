@@ -37,3 +37,6 @@ jupyter notebook
 ```
 
 Now you can open the notebooks and replicate the experiment.
+
+
+### You can check [scalex](https://github.com/jsxlei/SCALEX) for more details on their integration algorithm
