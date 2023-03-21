@@ -1,0 +1,11 @@
+scanpy
+scanorama
+bbknn
+harmonypy
+scalex
+hdf5plugin
+triku
+matplotlib
+anndata
+scipy
+jupyter
