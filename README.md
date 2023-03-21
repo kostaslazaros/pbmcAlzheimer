@@ -27,7 +27,7 @@ venv\Scripts\activate
 4. Install the required libraries inside the virtual environment:
 
 ```sh
-pip install -m requirements.txt
+pip install -r requirements.txt
 ```
 
 5. Then run the following command:
